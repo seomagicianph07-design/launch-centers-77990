@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seomagicianph07-design.github.io/launch-centers-77990/sitemap.xml
